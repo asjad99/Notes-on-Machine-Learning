@@ -15,8 +15,7 @@
 
 - [Cornell CS 5787: Applied Machine Learning](https://www.youtube.com/watch?v=vcE9WGbi4QY&list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 - [Applied Machine Learning by Andreas Mueller](https://www.youtube.com/watch?v=d79mzijMAw0&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
-- []()
-- [Economics of datasets]()
+- [Stanford - Economics of datasets]()
 
 
 
